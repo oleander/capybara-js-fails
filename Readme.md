@@ -1,5 +1,7 @@
 # Capybara
 
+[Here](http://stackoverflow.com/questions/7788028/using-capybara-to-test-pure-javascript-application) is the link to the original thread on Stackoverflow.com
+
 ## Installation
 
 Start by cloning the project.
