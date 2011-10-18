@@ -1,4 +1,4 @@
-describe "requests", js: true do    
+describe "requests", js: true, type: :request do    
   it "should display a message" do
     visit "/"
     click_link "Click me!"

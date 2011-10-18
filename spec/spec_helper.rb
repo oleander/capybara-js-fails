@@ -1,6 +1,7 @@
 require "rspec"
 require "capybara"
 require "capybara/dsl"
+require "capybara/rspec"
 
 Capybara.javascript_driver = :selenium
 require_relative "./../server"
@@ -11,5 +12,5 @@ Capybara.default_wait_time = 10
 
 RSpec.configure do |config|
   config.mock_with :rspec
-  config.include Capybara
+  config.include Capybara::DSL
 end
