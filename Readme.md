@@ -1,6 +1,7 @@
 # Capybara
 
-[Here](http://stackoverflow.com/questions/7788028/using-capybara-to-test-pure-javascript-application) is the link to the original thread on Stackoverflow.com
+- [Question](http://stackoverflow.com/questions/7788028/using-capybara-to-test-pure-javascript-application) on Stackoverflow.
+- [Solution](http://groups.google.com/group/ruby-capybara/browse_thread/thread/ce30ffc765065e21) on Google Groups.
 
 ## Installation
 
